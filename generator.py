@@ -3,7 +3,7 @@ import random
 
 character = (
     "Hero", 
-    "Recruit",
+    "Abhishek",
     "Invader",
     "Commander",
     "Children",
