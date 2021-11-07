@@ -64,8 +64,3 @@ jobs:
         run: |
           wily report generator/generator.py
           wily report test/test_generator.py
-      - name: Show wily rank
-        run: |
-          wily rank generator/ 
-          wily rank test/ 
-          wily rank .
